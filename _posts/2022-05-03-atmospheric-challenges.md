@@ -1,7 +1,7 @@
 ---
 title: "Atmospheric challenges for astronomy"
 sub_title: "How to tackle atmospheric turbulence and absorption?"
-last_modified_at: 2022-05-01T16:10:00-00:00
+last_modified_at: 2022-05-03T16:10:00-00:00
 tags: 
   - Atmosphere
   - Scintillation
