@@ -26,12 +26,7 @@ author:
 # logo: /assets/icons/focals_logo.svg
 search: true
 search_full_content: false
-search_provider: algolia
-algolia:
-  application_id: QB6HVGBSBA
-  index_name: basically-basic
-  search_only_api_key: 9d5014e5bbc77372547bce778dfa5663
-  powered_by: # true (default), false
+search_provider: lunr
 
 # Liquid
 liquid:
