@@ -8,7 +8,6 @@ tags:
   - Adaptive optics
   - Space telescope
 ---
-
 In their fascinating quest of observing the universe, astronomers are facing gargantuan challenges such as the *faintness* of distant objects, the *blindness* arising from absorption in nebulae (i.e. gas clouds) or even *light pollution* from human activities. And one of the biggest of these challenges is also the closest to us: the Earth's atmosphere and its associated *blurriness*.
 
 
