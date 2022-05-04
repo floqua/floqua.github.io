@@ -9,10 +9,6 @@ tags:
   - Space telescope
 ---
 
-<img src="image.jpg" class="align-left" alt="">
-<img src="image.jpg" class="align-center" alt="">
-<img src="image.jpg" class="align-right" alt="">
-
 In their fascinating quest of observing the universe, astronomers are facing gargantuan challenges such as the *faintness* of distant objects, the *blindness* arising from absorption in nebulae (i.e. gas clouds) or even *light pollution* from human activities. And one of the biggest of these challenges is also the closest to us: the Earth's atmosphere and its associated *blurriness*.
 
 
@@ -29,6 +25,12 @@ As far back as 1703, Sir Isaac Newton had recognized that telescopes “cannot b
 The solution is thus to build observatories and telescopes at high altitude, on mountain tops for example. At these locations, the air is thinner. The propagation path through the atmosphere is also reduced, and so is the scintillation. Other motivations to build telescopes at high altitudes are related to the lower cloud coverage and the reduced light pollution (away from cities).
 
 In 2010, **Astronomy magazine** published a map showing the locations of main optical telescopes (Figure 1). Most of them are indeed located at high altitudes, for example in La Palma (altitude: 2400 m), on the top of the Mauna Kea (altitude: 4200 m) or in Chile (altitude: above 2000 m, up to 5600 m).
+
+
+<img src="image.jpg" class="align-left" alt="">
+<img src="image.jpg" class="align-center" alt="">
+<img src="image.jpg" class="align-right" alt="">
+
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/map_optical_telescopes.png){: .align-center}
 *Figure 1: locations of main optical telescopes in the world (Source: Astronomy Magazine, Volume 18, Issue 11, November 2010. Retrieved from [universe-review.ca](https://universe-review.ca/R08-11-instruments.htm))*.
@@ -48,7 +50,7 @@ Alternatively to space telescopes, improvements on ground telescopes can be made
 
 Its underlying principle is to (mechanically) compensate the wavefront distortions prior to imaging, using for example a deformable mirror.  This is illustrated in Figure 2: the perturbed light from a star is reflected by a mirror in such a way that atmospheric turbulent effects are corrected (i.e. going from a distorted wavefront to a plane wavefront). In order to determine how to deform the mirror, the light wavefront is analyzed and commands are then applied to the deformable mirror. It is thus a closed-loop system working at a rate of a few kilohertz. Ideally, the final image should be free from atmospheric abberations.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ao_illustration.PNG){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ao_illustration.png){: .align-center}
 *Figure 2: illustration of adaptive optics (Source: [Badkoubeh 2017])*.
 
 Adaptive optics is similar to **equalization** in radio frequency (RF) communications. It requires two important steps: acquiring information about the atmospheric damages on the light and correcting for these using the deformable mirror. Sometimes, reference stars sufficiently bright and close to the target of interest can be used to acquire the information about the atmospheric turbulence. However, better approaches making use of laser guide stars (LGS) have been developed.
