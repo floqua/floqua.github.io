@@ -28,7 +28,7 @@ As far back as 1703, Sir Isaac Newton had recognized that telescopes “cannot b
 
 The solution is thus to build observatories and telescopes at high altitude, on mountain tops for example. At these locations, the air is thinner. The propagation path through the atmosphere is also reduced, and so is the scintillation. Other motivations to build telescopes at high altitudes are related to the lower cloud coverage and the reduced light pollution (away from cities).
 
-In 2010, **Astronomy magazine** published a map showing the locations of main optical telescopes (Fig. 2). Most of them are indeed located at high altitudes, for example in La Palma (altitude: 2400 m), on the top of the Mauna Kea (altitude: 4200 m) or in Chile (altitude: above 2000 m, up to 5600 m).
+In 2010, **Astronomy magazine** published a map showing the locations of main optical telescopes (Figure 1). Most of them are indeed located at high altitudes, for example in La Palma (altitude: 2400 m), on the top of the Mauna Kea (altitude: 4200 m) or in Chile (altitude: above 2000 m, up to 5600 m).
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/map_optical_telescopes.png){: .align-center}
 *Figure 1: locations of main optical telescopes in the world (Source: Astronomy Magazine, Volume 18, Issue 11, November 2010. Retrieved from [universe-review.ca](https://universe-review.ca/R08-11-instruments.htm))*.
