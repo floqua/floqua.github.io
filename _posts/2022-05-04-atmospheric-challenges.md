@@ -41,7 +41,7 @@ Alternatively to space telescopes, improvements on ground telescopes can be made
 
 Its underlying principle is to (mechanically) compensate the wavefront distortions prior to imaging, using for example a deformable mirror.  This is illustrated in Figure 1: the perturbed light from a star is reflected by a mirror in such a way that atmospheric turbulent effects are corrected (i.e. going from a distorted wavefront to a plane wavefront). In order to determine how to deform the mirror, the light wavefront is analyzed and commands are then applied to the deformable mirror. It is thus a closed-loop system working at a rate of a few kilohertz. Ideally, the final image should be free from atmospheric abberations.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ao_illustration.png){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/AO_illustration.png){: .align-center}
 *Figure 1: illustration of adaptive optics (personal illustration, adapted from [Duffner 2009] and [Badkoubeh 2017])*.
 
 Adaptive optics is similar to **equalization** in radio frequency (RF) communications. It requires two important steps: acquiring information about the atmospheric damages on the light and correcting for these using the deformable mirror. Sometimes, reference stars sufficiently bright and close to the target of interest can be used to acquire the information about the atmospheric turbulence. However, better approaches making use of laser guide stars (LGS) have been developed.
