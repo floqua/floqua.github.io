@@ -23,16 +23,8 @@ As far back as 1703, Sir Isaac Newton had recognized that telescopes “cannot b
 
 The solution is thus to build observatories and telescopes at high altitude, on mountain tops for example. At these locations, the air is thinner. The propagation path through the atmosphere is also reduced, and so is the scintillation. Other motivations to build telescopes at high altitudes are related to the lower cloud coverage and the reduced light pollution (away from cities).
 
-In 2010, **Astronomy magazine** published a map showing the locations of main optical telescopes (Figure 1). Most of them are indeed located at high altitudes, for example in La Palma (altitude: 2400 m), on the top of the Mauna Kea (altitude: 4200 m) or in Chile (altitude: above 2000 m, up to 5600 m).
+In 2010, **Astronomy magazine** published a map showing the locations of main optical telescopes. Most of them are indeed located at high altitudes, for example in La Palma (altitude: 2400 m), on the top of the Mauna Kea (altitude: 4200 m) or in Chile (altitude: above 2000 m, up to 5600 m). This map is available at the following link: [universe-review.ca](https://universe-review.ca/R08-11-instruments.htm).
 
-
-<img src="image.jpg" class="align-left" alt="">
-<img src="image.jpg" class="align-center" alt="">
-<img src="image.jpg" class="align-right" alt="">
-
-
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/map_optical_telescopes.png){: .align-center}
-*Figure 1: locations of main optical telescopes in the world (Source: Astronomy Magazine, Volume 18, Issue 11, November 2010. Retrieved from [universe-review.ca](https://universe-review.ca/R08-11-instruments.htm))*.
 
 ### Space telescopes
 Pushing this idea of gaining altitude to its limit, one ends up with *space telescopes*. Despite their increased costs and the difficulties of maintenance, space telescopes are ideal solutions to avoid scintillation, atmospheric absorption (see below) and light pollution. In space, stars are not twinkling since their light did not propagate through the turbulent Earth's atmosphere.
@@ -47,10 +39,10 @@ Its successor in the infrared is also well-known: the James Webb Space Telescope
 ## Second solution: adaptive optics
 Alternatively to space telescopes, improvements on ground telescopes can be made in order to correct partially for optical turbulence. This is achieved thanks to *adaptive optics*.
 
-Its underlying principle is to (mechanically) compensate the wavefront distortions prior to imaging, using for example a deformable mirror.  This is illustrated in Figure 2: the perturbed light from a star is reflected by a mirror in such a way that atmospheric turbulent effects are corrected (i.e. going from a distorted wavefront to a plane wavefront). In order to determine how to deform the mirror, the light wavefront is analyzed and commands are then applied to the deformable mirror. It is thus a closed-loop system working at a rate of a few kilohertz. Ideally, the final image should be free from atmospheric abberations.
+Its underlying principle is to (mechanically) compensate the wavefront distortions prior to imaging, using for example a deformable mirror.  This is illustrated in Figure 1: the perturbed light from a star is reflected by a mirror in such a way that atmospheric turbulent effects are corrected (i.e. going from a distorted wavefront to a plane wavefront). In order to determine how to deform the mirror, the light wavefront is analyzed and commands are then applied to the deformable mirror. It is thus a closed-loop system working at a rate of a few kilohertz. Ideally, the final image should be free from atmospheric abberations.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/ao_illustration.png){: .align-center}
-*Figure 2: illustration of adaptive optics (Source: [Badkoubeh 2017])*.
+*Figure 1: illustration of adaptive optics (personal illustration, adapted from [Duffner 2009] and [Badkoubeh 2017])*.
 
 Adaptive optics is similar to **equalization** in radio frequency (RF) communications. It requires two important steps: acquiring information about the atmospheric damages on the light and correcting for these using the deformable mirror. Sometimes, reference stars sufficiently bright and close to the target of interest can be used to acquire the information about the atmospheric turbulence. However, better approaches making use of laser guide stars (LGS) have been developed.
 
@@ -59,10 +51,10 @@ Laser guide stars are artificial stars created by focussing a laser emitted from
 In a way, laser guide stars are similar to **pilots** used for channel estimation in RF communications. They are also expected to be help for ground-to-satellite optical communications, namely for uplink, i.e. communication links from the ground to the satellite.
 
 # Atmospheric absorption
-Aside from atmospheric turbulence, the atmosphere is also responsible for absorbing light at particular wavelengths, making observations in X-rays, ultraviolet light and part of infrared light impossible. This is illustrated in Figure 3. This absorption comes from the different gases present in the atmosphere, such as water vapor and carbon dioxide that are mostly responsible for the absorption in the infrared.
+Aside from atmospheric turbulence, the atmosphere is also responsible for absorbing light at particular wavelengths, making observations in X-rays, ultraviolet light and part of infrared light impossible. This is illustrated in Figure 2. This absorption comes from the different gases present in the atmosphere, such as water vapor and carbon dioxide that are mostly responsible for the absorption in the infrared.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/atmospheric_absorption.png){: .align-center}
-*Figure 3: illustration of Earth's atmospheric opacity (Source: NASA, retrieved from [Wikipedia](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope#/media/File:Atmospheric_electromagnetic_opacity.svg))*.
+*Figure 2: illustration of Earth's atmospheric opacity (Source: NASA, retrieved from [Wikipedia](https://en.wikipedia.org/wiki/James_Webb_Space_Telescope#/media/File:Atmospheric_electromagnetic_opacity.svg))*.
 
 Atmospheric absorption can hardly be avoided. As for atmospheric turbulence, space telescopes are a potential solution, with for example the JWST that is looking in the infrared.
 
