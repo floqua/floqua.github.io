@@ -14,10 +14,6 @@ themselves but rather to the medium in which their light propagates at the end o
 long journey through space: our atmosphere.
 
 
-<img src="image.jpg" class="align-left" alt="">
-<img src="image.jpg" class="align-center" alt="">
-<img src="image.jpg" class="align-right" alt="">
-
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/twinkle.jpg){: .align-center}
 
 # Origin: scintillation
