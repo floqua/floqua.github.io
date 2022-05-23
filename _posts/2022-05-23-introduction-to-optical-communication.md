@@ -7,12 +7,12 @@ tags:
   - Free space optical communications
 ---
 
- $\cdot \cdot - \cdot \:\:\: \cdot \cdot \cdot \:\:\: ---$. Do you remember once using a flashlight to send Morse code to a friend? Then both of you were using a form of optical wireless communication. Now imagine doing it so fast that your eyes cannot see the flashlight blinking anymore, transmitting more data that your brain would never be able to process, over distances that cannot be travelled in a lifetime. THIS is real optical wireless communication.
+$$\cdot \cdot - \cdot \:\:\: \cdot \cdot \cdot \:\:\: ---.$$ Do you remember once using a flashlight to send Morse code to a friend? Then both of you were using a form of optical wireless communication. Now imagine doing it so fast that your eyes cannot see the flashlight blinking anymore, transmitting more data that your brain would never be able to process, over distances that cannot be travelled in a lifetime. THIS is real optical wireless communication.
 
 # Optical wireless communications
 Optical Wireless Communication (OWC) refers to the use of light to convey an information signal wirelessly, i.e. without needing a support (e.g. an optical fiber) to guide the signal. Usually, such communications are performed through vacuum, air or even water, making use of visible, infrared or ultravioled light. 
 
-Figure 1 depicts the electromagnetic (EM) spectrum: the visible light region is highlighted and corresponds to the light that can be seen by the human eye. Its wavelength, i.e. the spatial period of the EM wave, is between 380 to 750 nanometers (1 nm = $10^{-9}$ m). Next to the visible region are the ultraviolet and infrared regions, also of interest for optical communication. Increasing the wavelength to the order of centimeters, meters, or even more leads to region of the radio waves that is where most wireless communication devices currently operate (this is the case of your mobile phone for example). Making use of visible light to communicate can thus simply be seen as modifying the operating wavelength of today's devices. In practice, things are not so simple and completely different technologies must be used.
+Figure 1 depicts the electromagnetic (EM) spectrum: the visible light region is highlighted and corresponds to the light that can be seen by the human eye. Its wavelength, i.e. the spatial period of the EM wave, is between 380 to 750 nanometers (1 nm = 10<sup>-9</sup> m). Next to the visible region are the ultraviolet and infrared regions, also of interest for optical communication. Increasing the wavelength to the order of centimeters, meters, or even more leads to region of the radio waves that is where most wireless communication devices currently operate (this is the case of mobile phones for example). Making use of visible light to communicate can thus simply be seen as modifying the operating wavelength of today's devices. In practice, things are not so simple and completely different technologies must be used.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/EM_spectrum.png){: .align-center}
 *Figure 1: electromagnetic spectrum*.
@@ -24,7 +24,6 @@ The acronym OWC can designate communication systems having completely different 
 
 # Free space optical communications
 The use of FSO communications is mainly driven by its advantages with respect to classical radiofrequency (RF) communications, including:
-
 - A large modulation bandwidth: optical frequencies are in the order of hundreds of THz, offering larger modulation bandwidths than RF systems. The larger the modulation bandwidth, the more data can be transmitted per second, hence increasing the data rate;
 - A narrow beam divergence and a high directivity, given the smaller wavelength of optical waves;
 - An unlicensed spectrum, thanks to the high directivity of optical beams. For classical RF communications, licensing is required to avoid interference when using the same frequencies since RF waves tends to propagate in all directions;
