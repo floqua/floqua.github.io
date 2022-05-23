@@ -7,7 +7,7 @@ tags:
   - Free space optical communications
 ---
 
-$$\cdot \cdot - \cdot \:\:\: \cdot \cdot \cdot \:\:\: ---.$$ Do you remember once using a flashlight to send Morse code to a friend? Then both of you were using a form of optical wireless communication. Now imagine doing it so fast that your eyes cannot see the flashlight blinking anymore, transmitting more data that your brain would never be able to process, over distances that cannot be travelled in a lifetime. THIS is real optical wireless communication.
+**..-.  ...  ---**? Do you remember once using a flashlight to send Morse code to a friend? Then both of you were using a form of optical wireless communication. Now imagine doing it so fast that your eyes cannot see the flashlight blinking anymore, transmitting more data that your brain would never be able to process, over distances that cannot be travelled in a lifetime. THIS is real optical wireless communication.
 
 # Optical wireless communications
 Optical Wireless Communication (OWC) refers to the use of light to convey an information signal wirelessly, i.e. without needing a support (e.g. an optical fiber) to guide the signal. Usually, such communications are performed through vacuum, air or even water, making use of visible, infrared or ultravioled light. 
@@ -15,12 +15,12 @@ Optical Wireless Communication (OWC) refers to the use of light to convey an inf
 Figure 1 depicts the electromagnetic (EM) spectrum: the visible light region is highlighted and corresponds to the light that can be seen by the human eye. Its wavelength, i.e. the spatial period of the EM wave, is between 380 to 750 nanometers (1 nm = 10<sup>-9</sup> m). Next to the visible region are the ultraviolet and infrared regions, also of interest for optical communication. Increasing the wavelength to the order of centimeters, meters, or even more leads to region of the radio waves that is where most wireless communication devices currently operate (this is the case of mobile phones for example). Making use of visible light to communicate can thus simply be seen as modifying the operating wavelength of today's devices. In practice, things are not so simple and completely different technologies must be used.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/EM_spectrum.png){: .align-center}
-<p class="text-center">*Figure 1: Electromagnetic spectrum*.</p>
+<p class="text-center">Figure 1: Electromagnetic spectrum.</p>
 
 The acronym OWC can designate communication systems having completely different ranges: it includes indoor (short-range) systems such as Li-Fi (a technology using light to provide network and mobile communications in similar applications as Wi-Fi) or chip-to-chip communications (communications at the scale of an electronic device to transfer information between neighboring chip without needing wired connections). It also includes outdoor (long-range) applications that are referred to as Free Space Optical (FSO) communications. This is the case of terrestrial links (e.g. vehicle-to-vehicle communications, [backhaul](https://en.wikipedia.org/wiki/Backhaul_(telecommunications)) links), Earth-to-space links and space links. A possible classification of OWC systems is presented in Figure 2. In the following, focus will be given to FSO communications. 
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/OWC_classification.png){: .align-center}
-<p class="text-center">*Figure 2: Classification of optical wireless communication systems*.</p>
+<p class="text-center">Figure 2: Classification of optical wireless communication systems.</p>
 
 # Free space optical communications
 The use of FSO communications is mainly driven by its advantages with respect to classical radiofrequency (RF) communications, including:
