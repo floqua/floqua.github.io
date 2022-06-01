@@ -7,7 +7,7 @@ tags:
   - Free space optical communications
 ---
 
-$\cdot \cdot - \cdot \:\: \cdot \cdot \cdot \:\: - - -$? Do you remember once using a flashlight to send Morse code to a friend? Then both of you were using a form of optical wireless communication. Now imagine doing it so fast that your eyes cannot see the flashlight blinking anymore, transmitting more data that your brain would never be able to process, over distances that cannot be travelled in a lifetime. THIS is real optical wireless communication.
+$\cdot \cdot - \cdot \text{ } \cdot \cdot \cdot \text{ } - - -$? Do you remember once using a flashlight to send Morse code to a friend? Then both of you were using a form of optical wireless communication. Now imagine doing it so fast that your eyes cannot see the flashlight blinking anymore, transmitting more data that your brain would never be able to process, over distances that cannot be travelled in a lifetime. THIS is real optical wireless communication.
 
 # Optical wireless communications
 Optical Wireless Communication (OWC) refers to the use of light to convey an information signal wirelessly, i.e. without needing a support (e.g. an optical fiber) to guide the signal. Usually, such communications are performed through vacuum, air or even water, making use of visible, infrared or ultravioled light. 
