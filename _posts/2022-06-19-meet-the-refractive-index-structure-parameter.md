@@ -100,7 +100,7 @@ Knowledge of $C_n^2$ profiles is particularly useful in astronomy: it provides i
 
 Similarly, $C_n^2$ profiling also helps to carry out site selection for future optical communication systems. It is also of interest for the design of such systems and to determine ideal time windows during which a successful optical communication link can be achieved (doing $C_n^2$ profile predictions).
 
-Nevertheless, $C_n^2$ remains a statistical quantity giving on average how strong the refractive index fluctuations are. To obtain precisely the values of these fluctuations at a given instant and location, atmospheric turbulense sensing, e.g. making use of guide stars, is required and is at the hearth of adaptive optics systems.
+Nevertheless, $C_n^2$ remains a statistical quantity giving on average how strong the refractive index fluctuations are. To obtain precisely the values of these fluctuations at a given instant and location, atmospheric turbulense sensing, e.g. making use of guide stars, is required and is at the heart of adaptive optics systems.
 
 
 # References
